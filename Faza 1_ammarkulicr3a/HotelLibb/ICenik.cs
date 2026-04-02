@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace HotelLibb
 {
+    /// <summary>
+    /// Izračun cene sobe
+    /// </summary>
     public interface ICenik
     {
         double IzracunajCeno();

@@ -1,0 +1,330 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>HotelLibb</name>
+    </assembly>
+    <members>
+        <member name="T:HotelLibb.Gost">
+            <summary>
+            Razred, ki predstavlja gosta hotela
+            </summary>
+        </member>
+        <member name="P:HotelLibb.Gost.TipGosta">
+            <summary>
+            Tip gosta
+            </summary>
+        </member>
+        <member name="M:HotelLibb.Gost.#ctor">
+            <summary>
+            Konstruktor
+            </summary>
+        </member>
+        <member name="M:HotelLibb.Gost.#ctor(System.String,System.String,System.String,System.String,System.String,System.String)">
+            <summary>
+            Konstruktor za določanje gosta
+            </summary>
+            <param name="sifra">Šifra gosta.</param>
+            <param name="ime">Ime gosta.</param>
+            <param name="priimek">Priimek gosta.</param>
+            <param name="spol">Spol gosta.</param>
+            <param name="telefon">Telefon gosta.</param>
+            <param name="tip">Tip gosta.</param>
+        </member>
+        <member name="M:HotelLibb.Gost.Opis">
+            <summary>
+            Vrne opis gosta
+            </summary>
+        </member>
+        <member name="M:HotelLibb.Gost.Pozdrav">
+            <summary>
+            Vrne pozdrav gosta
+            </summary>
+        </member>
+        <member name="T:HotelLibb.Hotel">
+            <summary>
+            Predstavlja hotel, z sobami in gosti
+            </summary>
+        </member>
+        <member name="P:HotelLibb.Hotel.Ime">
+            <summary>
+            Ime hotela, saj jih je več
+            </summary>
+        </member>
+        <member name="F:HotelLibb.Hotel.SteviloHotelov">
+            <summary>
+            Skupno število hotelov
+            </summary>
+        </member>
+        <member name="M:HotelLibb.Hotel.#ctor">
+            <summary>
+            Konstruktor, ki poveča števec hotelov
+            </summary>
+        </member>
+        <member name="M:HotelLibb.Hotel.#ctor(System.String)">
+            <summary>
+            Konstruktor z imenom hotela
+            </summary>
+            <param name="ime">Ime hotela</param>
+        </member>
+        <member name="P:HotelLibb.Hotel.Sobe">
+            <summary>
+            Vrne seznam vseh sob v hotelu
+            </summary>
+        </member>
+        <member name="M:HotelLibb.Hotel.DodajSobo(HotelLibb.Soba)">
+            <summary>
+            Doda novo sobo
+            </summary>
+            <param name="s">Soba za dodajanje</param>
+        </member>
+        <member name="M:HotelLibb.Hotel.DodajZaposlenega(HotelLibb.Zaposleni)">
+            <summary>
+            Nov zaposlen
+            </summary>
+            <param name="z">Zaposleni</param>
+        </member>
+        <member name="M:HotelLibb.Hotel.ToString">
+            <summary>
+            Vrne informacije o hotelu
+            </summary>
+        </member>
+        <member name="T:HotelLibb.Hotel.Obvestilo">
+            <summary>
+            Delegat za obveščanje
+            </summary>
+            <param name="sporocilo">Besedilo sporočila</param>
+        </member>
+        <member name="M:HotelLibb.Hotel.Izpisi(HotelLibb.Hotel.Obvestilo)">
+            <summary>
+            Izvede podano funkcijo obvestila
+            </summary>
+            <param name="obv">Delegat za obveščanje</param>
+        </member>
+        <member name="E:HotelLibb.Hotel.SobaDodana">
+            <summary>
+            Dogodek, ki se sproži ob dodajanju sobe
+            </summary>
+        </member>
+        <member name="T:HotelLibb.ICenik">
+            <summary>
+            Izračun cene sobe
+            </summary>
+        </member>
+        <member name="T:HotelLibb.LuksuznaSoba">
+            <summary>
+            Razred luksuzna soba
+            </summary>
+        </member>
+        <member name="P:HotelLibb.LuksuznaSoba.Jacuzzi">
+            <summary>
+            Določa če vsebuje soba jacuzi
+            </summary>
+        </member>
+        <member name="M:HotelLibb.LuksuznaSoba.#ctor(System.Int32,System.Int32,System.Double,System.Boolean)">
+            <summary>
+            Konstruktor
+            </summary>
+            <param name="stevilka">Številka sobe.</param>
+            <param name="kapaciteta">Kapaciteta sobe.</param>
+            <param name="cena">Cena na noč.</param>
+            <param name="jacuzzi">Ali ima jacuzzi.</param>
+        </member>
+        <member name="M:HotelLibb.LuksuznaSoba.ToString">
+            <summary>
+            Vrne opis luksuzne sobe
+            </summary>
+        </member>
+        <member name="T:HotelLibb.Oseba">
+            <summary>
+            Abstraktni razred, ki predstavlja osnovno osebo v sistemu
+            </summary>
+        </member>
+        <member name="P:HotelLibb.Oseba.Sifra">
+            <summary>
+            šifra osebe        
+            </summary>
+        </member>
+        <member name="P:HotelLibb.Oseba.Ime">
+            <summary>
+            Ime osebe. Če je prazno ali null, se nastavi na "Neznano".
+            </summary>
+        </member>
+        <member name="P:HotelLibb.Oseba.Priimek">
+            <summary>
+            Priimek osebe. Če je prazno ali null, se nastavi na "Neznano".
+            </summary>
+        </member>
+        <member name="P:HotelLibb.Oseba.Spol">
+            <summary>
+            Spol osebe
+            </summary>
+        </member>
+        <member name="P:HotelLibb.Oseba.Telefon">
+            <summary>
+            Telefonska številka osebe
+            </summary>
+        </member>
+        <member name="F:HotelLibb.Oseba.DatumUstvarjanja">
+            <summary>
+            Datum ustvarjanja
+            </summary>
+        </member>
+        <member name="M:HotelLibb.Oseba.#ctor">
+            <summary>
+            Privzeti konstruktor, ki nastavi datum ustvarjanja
+            </summary>
+        </member>
+        <member name="M:HotelLibb.Oseba.#ctor(System.String,System.String,System.String,System.String,System.String)">
+            <summary>
+            Konstruktor
+            </summary>
+            <param name="sifra">Šifra osebe.</param>
+            <param name="ime">Ime osebe.</param>
+            <param name="priimek">Priimek osebe.</param>
+            <param name="spol">Spol osebe.</param>
+            <param name="telefon">Telefon osebe.</param>
+        </member>
+        <member name="M:HotelLibb.Oseba.Opis">
+            <summary>
+            Vrne opis
+            </summary>
+            <returns>Opis osebe.</returns>
+        </member>
+        <member name="M:HotelLibb.Oseba.Pozdrav">
+            <summary>
+            Vrne pozdrav
+            </summary>
+        </member>
+        <member name="M:HotelLibb.Oseba.ToString">
+            <summary>
+            Vrne o osebi
+            </summary>
+        </member>
+        <member name="T:HotelLibb.Rezervacija">
+            <summary>
+            Predstavlja rezervacijo sobe v hotelu
+            </summary>
+        </member>
+        <member name="P:HotelLibb.Rezervacija.Sifra">
+            <summary>
+            Šifra
+            </summary>
+        </member>
+        <member name="P:HotelLibb.Rezervacija.Gost">
+            <summary>
+            Gost
+            </summary>
+        </member>
+        <member name="P:HotelLibb.Rezervacija.Soba">
+            <summary>
+            Soba
+            </summary>
+        </member>
+        <member name="P:HotelLibb.Rezervacija.Od">
+            <summary>
+            Datum začetka rezervacije
+            </summary>
+        </member>
+        <member name="P:HotelLibb.Rezervacija.Do">
+            <summary>
+            Datum konca rezervacije
+            </summary>
+        </member>
+        <member name="M:HotelLibb.Rezervacija.#ctor(HotelLibb.Gost,HotelLibb.Soba,System.DateTime,System.DateTime)">
+            <summary>
+            Konstruktor
+            </summary>
+        </member>
+        <member name="M:HotelLibb.Rezervacija.IzracunajCeno">
+            <summary>
+            Izračuna skupno ceno rezervacije
+            </summary>
+        </member>
+        <member name="M:HotelLibb.Rezervacija.ToString">
+            <summary>
+            Vrne podatke o rezervaciji.
+            </summary>
+        </member>
+        <member name="T:HotelLibb.Soba">
+            <summary>
+            Hotelska soba
+            </summary>
+        </member>
+        <member name="P:HotelLibb.Soba.Stevilka">
+            <summary>
+            Številka sobe
+            </summary>
+        </member>
+        <member name="P:HotelLibb.Soba.Kapaciteta">
+            <summary>
+            Kapaciteta sobe
+            </summary>
+        </member>
+        <member name="P:HotelLibb.Soba.CenaNaNoc">
+            <summary>
+            Cena na noč
+            </summary>
+        </member>
+        <member name="M:HotelLibb.Soba.#ctor(System.Int32,System.Int32,System.Double)">
+            <summary>
+            Konstruktor
+            </summary>
+        </member>
+        <member name="M:HotelLibb.Soba.op_Addition(HotelLibb.Soba,HotelLibb.Soba)">
+            <summary>
+            računanje cene
+            </summary>
+        </member>
+        <member name="M:HotelLibb.Soba.ToString">
+            <summary>
+            Vrne o sobi
+            </summary>
+        </member>
+        <member name="T:HotelLibb.Zaposleni">
+            <summary>
+            Zaposlen v hotelu
+            Deduje od razreda Oseba.
+            </summary>
+        </member>
+        <member name="P:HotelLibb.Zaposleni.DelovnoMesto">
+            <summary>
+            Delovno mesto zaposlenega
+            </summary>
+        </member>
+        <member name="F:HotelLibb.Zaposleni.MinimalnaPlaca">
+            <summary>
+            Minimalna plača zaposlenega
+            </summary>
+        </member>
+        <member name="F:HotelLibb.Zaposleni.SteviloZaposlenih">
+            <summary>
+            Število zaposlenih
+            </summary>
+        </member>
+        <member name="F:HotelLibb.Zaposleni.ID">
+            <summary>
+            ID zaposlenega
+            </summary>
+        </member>
+        <member name="M:HotelLibb.Zaposleni.#ctor">
+            <summary>
+            Privzeti konstruktor
+            </summary>
+        </member>
+        <member name="M:HotelLibb.Zaposleni.#ctor(System.String,System.String,System.String,System.String,System.String,System.String)">
+            <summary>
+            Konstruktor z vsemi podatki zaposlenega
+            </summary>
+        </member>
+        <member name="M:HotelLibb.Zaposleni.Opis">
+            <summary>
+            Vrne opis zaposlenega
+            </summary>
+        </member>
+        <member name="M:HotelLibb.Zaposleni.Pozdrav">
+            <summary>
+            Vrne pozdrav
+            </summary>
+        </member>
+    </members>
+</doc>

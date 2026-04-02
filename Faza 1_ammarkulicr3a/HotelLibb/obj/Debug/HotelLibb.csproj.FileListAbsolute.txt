@@ -28,3 +28,10 @@ C:\Users\kulic\Documents\a\Faza 1_ammarkulicr3a\HotelLibb\obj\Debug\HotelLibb.cs
 C:\Users\kulic\Documents\a\Faza 1_ammarkulicr3a\HotelLibb\obj\Debug\HotelLibb.csproj.CoreCompileInputs.cache
 C:\Users\kulic\Documents\a\Faza 1_ammarkulicr3a\HotelLibb\obj\Debug\HotelLibb.dll
 C:\Users\kulic\Documents\a\Faza 1_ammarkulicr3a\HotelLibb\obj\Debug\HotelLibb.pdb
+C:\Users\ammar.kulic.20633\Downloads\Faza 1_ammarkulicr3a\HotelLibb\bin\Debug\HotelLibb.xml
+C:\Users\ammar.kulic.20633\Downloads\Faza 1_ammarkulicr3a\HotelLibb\bin\Debug\HotelLibb.dll
+C:\Users\ammar.kulic.20633\Downloads\Faza 1_ammarkulicr3a\HotelLibb\bin\Debug\HotelLibb.pdb
+C:\Users\ammar.kulic.20633\Downloads\Faza 1_ammarkulicr3a\HotelLibb\obj\Debug\HotelLibb.csproj.AssemblyReference.cache
+C:\Users\ammar.kulic.20633\Downloads\Faza 1_ammarkulicr3a\HotelLibb\obj\Debug\HotelLibb.csproj.CoreCompileInputs.cache
+C:\Users\ammar.kulic.20633\Downloads\Faza 1_ammarkulicr3a\HotelLibb\obj\Debug\HotelLibb.dll
+C:\Users\ammar.kulic.20633\Downloads\Faza 1_ammarkulicr3a\HotelLibb\obj\Debug\HotelLibb.pdb

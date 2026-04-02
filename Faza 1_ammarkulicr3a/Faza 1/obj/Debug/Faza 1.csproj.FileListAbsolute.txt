@@ -1,0 +1,69 @@
+C:\Users\kulic\source\repos\Faza 1\Faza 1\obj\Debug\Faza 1.csproj.AssemblyReference.cache
+C:\Users\kulic\source\repos\Faza 1\Faza 1\obj\Debug\Faza_1.Form1.resources
+C:\Users\kulic\source\repos\Faza 1\Faza 1\obj\Debug\Faza_1.Properties.Resources.resources
+C:\Users\kulic\source\repos\Faza 1\Faza 1\obj\Debug\Faza 1.csproj.GenerateResource.cache
+C:\Users\kulic\source\repos\Faza 1\Faza 1\obj\Debug\Faza 1.csproj.CoreCompileInputs.cache
+C:\Users\kulic\source\repos\Faza 1\Faza 1\bin\Debug\Faza 1.exe.config
+C:\Users\kulic\source\repos\Faza 1\Faza 1\bin\Debug\Faza 1.exe
+C:\Users\kulic\source\repos\Faza 1\Faza 1\bin\Debug\Faza 1.pdb
+C:\Users\kulic\source\repos\Faza 1\Faza 1\bin\Debug\HotelLibb.dll
+C:\Users\kulic\source\repos\Faza 1\Faza 1\bin\Debug\HotelLibb.pdb
+C:\Users\kulic\source\repos\Faza 1\Faza 1\obj\Debug\Faza 1.csproj.Up2Date
+C:\Users\kulic\source\repos\Faza 1\Faza 1\obj\Debug\Faza 1.exe
+C:\Users\kulic\source\repos\Faza 1\Faza 1\obj\Debug\Faza 1.pdb
+C:\Users\kulic\source\repos\Faza 1\Faza 1\obj\Debug\Faza 1.exe.config
+C:\Users\kulic\Desktop\Faza 1_ammarkulicr3a\Faza 1\bin\Debug\Faza 1.exe.config
+C:\Users\kulic\Desktop\Faza 1_ammarkulicr3a\Faza 1\bin\Debug\Faza 1.exe
+C:\Users\kulic\Desktop\Faza 1_ammarkulicr3a\Faza 1\bin\Debug\Faza 1.pdb
+C:\Users\kulic\Desktop\Faza 1_ammarkulicr3a\Faza 1\bin\Debug\HotelLibb.dll
+C:\Users\kulic\Desktop\Faza 1_ammarkulicr3a\Faza 1\bin\Debug\HotelLibb.pdb
+C:\Users\kulic\Desktop\Faza 1_ammarkulicr3a\Faza 1\obj\Debug\Faza 1.csproj.AssemblyReference.cache
+C:\Users\kulic\Desktop\Faza 1_ammarkulicr3a\Faza 1\obj\Debug\Faza 1.exe.config
+C:\Users\kulic\Desktop\Faza 1_ammarkulicr3a\Faza 1\obj\Debug\Faza_1.Form1.resources
+C:\Users\kulic\Desktop\Faza 1_ammarkulicr3a\Faza 1\obj\Debug\Faza_1.Properties.Resources.resources
+C:\Users\kulic\Desktop\Faza 1_ammarkulicr3a\Faza 1\obj\Debug\Faza 1.csproj.GenerateResource.cache
+C:\Users\kulic\Desktop\Faza 1_ammarkulicr3a\Faza 1\obj\Debug\Faza 1.csproj.CoreCompileInputs.cache
+C:\Users\kulic\Desktop\Faza 1_ammarkulicr3a\Faza 1\obj\Debug\Faza 1.csproj.Up2Date
+C:\Users\kulic\Desktop\Faza 1_ammarkulicr3a\Faza 1\obj\Debug\Faza 1.exe
+C:\Users\kulic\Desktop\Faza 1_ammarkulicr3a\Faza 1\obj\Debug\Faza 1.pdb
+C:\Users\kulic\Downloads\Faza 1_ammarkulicr3a\Faza 1\bin\Debug\Faza 1.exe.config
+C:\Users\kulic\Downloads\Faza 1_ammarkulicr3a\Faza 1\bin\Debug\Faza 1.exe
+C:\Users\kulic\Downloads\Faza 1_ammarkulicr3a\Faza 1\bin\Debug\Faza 1.pdb
+C:\Users\kulic\Downloads\Faza 1_ammarkulicr3a\Faza 1\bin\Debug\HotelLibb.dll
+C:\Users\kulic\Downloads\Faza 1_ammarkulicr3a\Faza 1\bin\Debug\HotelLibb.pdb
+C:\Users\kulic\Downloads\Faza 1_ammarkulicr3a\Faza 1\obj\Debug\Faza 1.csproj.AssemblyReference.cache
+C:\Users\kulic\Downloads\Faza 1_ammarkulicr3a\Faza 1\obj\Debug\Faza 1.exe.config
+C:\Users\kulic\Downloads\Faza 1_ammarkulicr3a\Faza 1\obj\Debug\Faza_1.Form1.resources
+C:\Users\kulic\Downloads\Faza 1_ammarkulicr3a\Faza 1\obj\Debug\Faza_1.Properties.Resources.resources
+C:\Users\kulic\Downloads\Faza 1_ammarkulicr3a\Faza 1\obj\Debug\Faza 1.csproj.GenerateResource.cache
+C:\Users\kulic\Downloads\Faza 1_ammarkulicr3a\Faza 1\obj\Debug\Faza 1.csproj.CoreCompileInputs.cache
+C:\Users\kulic\Downloads\Faza 1_ammarkulicr3a\Faza 1\obj\Debug\Faza 1.csproj.Up2Date
+C:\Users\kulic\Downloads\Faza 1_ammarkulicr3a\Faza 1\obj\Debug\Faza 1.exe
+C:\Users\kulic\Downloads\Faza 1_ammarkulicr3a\Faza 1\obj\Debug\Faza 1.pdb
+C:\Users\ammar.kulic.20633\Desktop\Faza 1_ammarkulicr3a\Faza 1\bin\Debug\Faza 1.exe.config
+C:\Users\ammar.kulic.20633\Desktop\Faza 1_ammarkulicr3a\Faza 1\bin\Debug\Faza 1.exe
+C:\Users\ammar.kulic.20633\Desktop\Faza 1_ammarkulicr3a\Faza 1\bin\Debug\Faza 1.pdb
+C:\Users\ammar.kulic.20633\Desktop\Faza 1_ammarkulicr3a\Faza 1\bin\Debug\HotelLibb.dll
+C:\Users\ammar.kulic.20633\Desktop\Faza 1_ammarkulicr3a\Faza 1\bin\Debug\HotelLibb.pdb
+C:\Users\ammar.kulic.20633\Desktop\Faza 1_ammarkulicr3a\Faza 1\obj\Debug\Faza 1.csproj.AssemblyReference.cache
+C:\Users\ammar.kulic.20633\Desktop\Faza 1_ammarkulicr3a\Faza 1\obj\Debug\Faza_1.Form1.resources
+C:\Users\ammar.kulic.20633\Desktop\Faza 1_ammarkulicr3a\Faza 1\obj\Debug\Faza_1.Properties.Resources.resources
+C:\Users\ammar.kulic.20633\Desktop\Faza 1_ammarkulicr3a\Faza 1\obj\Debug\Faza 1.csproj.GenerateResource.cache
+C:\Users\ammar.kulic.20633\Desktop\Faza 1_ammarkulicr3a\Faza 1\obj\Debug\Faza 1.csproj.CoreCompileInputs.cache
+C:\Users\ammar.kulic.20633\Desktop\Faza 1_ammarkulicr3a\Faza 1\obj\Debug\Faza 1.csproj.Up2Date
+C:\Users\ammar.kulic.20633\Desktop\Faza 1_ammarkulicr3a\Faza 1\obj\Debug\Faza 1.exe
+C:\Users\ammar.kulic.20633\Desktop\Faza 1_ammarkulicr3a\Faza 1\obj\Debug\Faza 1.pdb
+C:\Users\kulic\Documents\a\Faza 1_ammarkulicr3a\Faza 1\bin\Debug\Faza 1.exe.config
+C:\Users\kulic\Documents\a\Faza 1_ammarkulicr3a\Faza 1\bin\Debug\Faza 1.exe
+C:\Users\kulic\Documents\a\Faza 1_ammarkulicr3a\Faza 1\bin\Debug\Faza 1.pdb
+C:\Users\kulic\Documents\a\Faza 1_ammarkulicr3a\Faza 1\bin\Debug\HotelLibb.dll
+C:\Users\kulic\Documents\a\Faza 1_ammarkulicr3a\Faza 1\bin\Debug\HotelLibb.pdb
+C:\Users\kulic\Documents\a\Faza 1_ammarkulicr3a\Faza 1\obj\Debug\Faza 1.csproj.AssemblyReference.cache
+C:\Users\kulic\Documents\a\Faza 1_ammarkulicr3a\Faza 1\obj\Debug\Faza 1.exe.config
+C:\Users\kulic\Documents\a\Faza 1_ammarkulicr3a\Faza 1\obj\Debug\Faza_1.Form1.resources
+C:\Users\kulic\Documents\a\Faza 1_ammarkulicr3a\Faza 1\obj\Debug\Faza_1.Properties.Resources.resources
+C:\Users\kulic\Documents\a\Faza 1_ammarkulicr3a\Faza 1\obj\Debug\Faza 1.csproj.GenerateResource.cache
+C:\Users\kulic\Documents\a\Faza 1_ammarkulicr3a\Faza 1\obj\Debug\Faza 1.csproj.CoreCompileInputs.cache
+C:\Users\kulic\Documents\a\Faza 1_ammarkulicr3a\Faza 1\obj\Debug\Faza 1.csproj.Up2Date
+C:\Users\kulic\Documents\a\Faza 1_ammarkulicr3a\Faza 1\obj\Debug\Faza 1.exe
+C:\Users\kulic\Documents\a\Faza 1_ammarkulicr3a\Faza 1\obj\Debug\Faza 1.pdb
